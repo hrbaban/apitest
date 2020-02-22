@@ -13,9 +13,18 @@
   }
   ,
   "words":[
-    {"en":"son", "fa":"پسر"},
-    {"en":"girl", "fa":"دختر"},
-    {"en":"father", "fa":"پدر"},
-    {"en":"mother", "fa":"مادر"}
+    {"id":1000,"sectionId":100,"en":"son", "fa":"پسر"},
+    {"id":2000,
+     "sectionId":100,
+     "en":"son", 
+     "fa":"پسر"},
+    {"id":3000,
+     "sectionId":100,
+     "en":"son", 
+     "fa":"پسر"},
+    {"id":4000,
+     "sectionId":200,
+     "en":"son", 
+     "fa":"پسر"},
   ]
 }
